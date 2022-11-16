@@ -1,1 +1,1 @@
-# Fullstack Open
+# Full Stack Open
