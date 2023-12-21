@@ -22,22 +22,17 @@
     },
     {
       "content": "asd",
-      "important": true,
-      "id": 5
-    },
-    {
-      "content": "asd",
-      "important": true,
+      "important": false,
       "id": 6
     },
     {
       "content": "ddd",
-      "important": true,
+      "important": false,
       "id": 7
     },
     {
       "content": "aaaaaaa",
-      "important": true,
+      "important": false,
       "id": 8
     }
   ]

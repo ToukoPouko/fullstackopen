@@ -1,19 +1,14 @@
 {
   "persons": [
     {
-      "name": "Aapo",
+      "name": "Juho",
       "number": "123",
       "id": 1
     },
     {
-      "name": "Juuso",
-      "number": "789",
-      "id": 3
-    },
-    {
-      "name": "Sari",
+      "name": "Matti",
       "number": "456",
-      "id": 4
+      "id": 2
     }
   ]
 }
